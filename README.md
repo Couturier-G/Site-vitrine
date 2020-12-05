@@ -1,2 +1,1 @@
-# Site-vitrine
-Site vitrine opticien
+# Concept-optique
